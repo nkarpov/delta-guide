@@ -1,0 +1,6 @@
+[book]
+authors = ["Nick Karpov"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Delta Lake Guide"
