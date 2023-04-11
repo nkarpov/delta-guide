@@ -1,10 +1,10 @@
-# Overall
+# Introduction
 
 |Category   |Feature          |Standalone|Spark|Rust|Python|Go |
 |-----------|-----------------|----------|-----|----|------|---|
-|Metadata   |Actions          | Y | N |Y   |I     |I  |
-|Metadata   |Metadata         | Y | N |Y   |I     |I  |
-|Metadata   |Files            | Y | N |Y   |Y     |?  |
+|API        |Actions          | Y | N |Y   |I     |I  |
+|API        |Metadata         | Y | N |Y   |I     |I  |
+|API        |Files            | Y | N |Y   |Y     |?  |
 |API        |Snapshot         | Y | N |Y   | N    |?  |
 |API        |Transaction      | Y | N |Y   | N    |?  |
 |API        |Table            | Y | Y |Y   |Y     |?  |
