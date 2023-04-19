@@ -1,5 +1,9 @@
 # Introduction
 
+(work in progress)
+
+This guide is for all first class connectors in the Delta Lake ecosystem: Databricks, delta-spark, delta-standalone, delta-rs, deltalake, and delta-go.
+
 |Category   |Feature          |Standalone|Spark|Rust|Python|Go |
 |-----------|-----------------|----------|-----|----|------|---|
 |API        |Actions          | Y | N |Y   |I     |I  |
